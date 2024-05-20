@@ -1,16 +1,28 @@
-# Exploring-AirBnB
+# Exploring AirBnB in Athens
+In this project, we conduct an exploratory data analysis (EDA) of AirBnB listings in Athens, leveraging data obtained from [Inside AirBnB](https://insideairbnb.com/get-the-data/). With the use of Python visualization libraries (`Matplotlib`, `Seaborn`, `Plotly`, `Folium`) we aim to extract insights about the effect of AirBnB in the city.
 
-In this project, we collect data from [Inside AirBnB](https://insideairbnb.com/get-the-data/), and particularly the Athens data, to implement an exploratory data analysis of AirBnB and extract useful insights, using Python visualization libraries (Matplotlib, Seaborn, Plotly, Folium) 
 
-More specifically, we extract insights such as:
-* Neighbourhood Prices
-* Availability per day
-* Listings per room type
-* Prices per day
-* Listings per host
+## Objectives
+The primary objectives of our analysis include:
 
-Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumptions/) by Inside AirBnB, we can calculate an approximation for insights such as:
-* Average Occupacy for a listing
-* Average Monthly Income for a listing
+* Identifying the most popular neighborhoods in Athens and exploring their average listing prices.
+* Analyze the availability of listings on a daily basis to identify booking trends.
+* Calculating the average price per day for booking an AirBnB in Athens.
+* Exploring the distribution of listings among hosts, to identify prominent hosts and discern whether listings are primarily owned by individuals or managed as part of business operations.
 
-  
+Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumptions/) by Inside AirBnB, we can estimate:
+* The Average Occupacy of a listing per month.
+* The Average Monthly Income of a listing in Athens.
+
+## Interactive Maps
+
+We utilize the folium library to create two interactive maps of AirBnB listings in Athens:
+
+1. The first map provides descriptive information for each listing, including neighbourhood, room type, and price.
+2. The second map visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
+
+--- 
+
+1st Assignment for Applied Machine Learning 2024 (DMST, AUEB)
+
+You can find the description of the assignment [here](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/assignment_description.ipynb).
