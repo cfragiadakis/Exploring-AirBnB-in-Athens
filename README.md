@@ -3,7 +3,7 @@ In this project, we conduct an exploratory data analysis (EDA) of AirBnB listing
 
 
 ## Objectives
-The primary objectives of our analysis include:
+The primary objectives of the analysis include:
 
 * Identifying the most popular neighborhoods in Athens and exploring their average listing prices.
 * Analyze the availability of listings on a daily basis to identify booking trends.
@@ -16,10 +16,15 @@ Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumpti
 
 ## Interactive Maps
 
-We utilize the folium library to create two interactive maps of AirBnB listings in Athens:
+We utilize the `folium` library to create two interactive maps of AirBnB listings in Athens:
 
-1. The first map provides descriptive information for each listing, including neighbourhood, room type, and price.
-2. The second map visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
+1. The [first map](https://github.com/cfragiadakis/Exploring-AirBnB/blob/main/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, and price.
+2. The [second map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/athens_airbnb_map2.html) visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
+
+
+---
+
+The analysis can be replicated by using the data from any other city for which data is available on [Inside AirBnB](https://insideairbnb.com/get-the-data/). You can simply download and replace the data files within the notebook, and extract insights about AirBnB accross different landscapes.
 
 --- 
 
