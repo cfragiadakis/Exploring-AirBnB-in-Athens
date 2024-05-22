@@ -11,8 +11,9 @@ The primary objectives of the analysis include:
 * Exploring the distribution of listings among hosts, to identify prominent hosts and discern whether listings are primarily owned by individuals or managed as part of business operations.
 
 Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumptions/) by Inside AirBnB, we can estimate:
-* The Average Occupacy of a listing per month.
-* The Average Monthly Income of a listing in Athens.
+* The average occupacy of a listing per month.
+* The average monthly income of a listing in Athens.
+* The average yearly income per neighbourhood.
 
 ## Interactive Maps
 
