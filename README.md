@@ -19,8 +19,10 @@ Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumpti
 
 We utilize the `folium` library to create two interactive maps of AirBnB listings in Athens:
 
-1. The [first map](https://github.com/cfragiadakis/Exploring-AirBnB/blob/main/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, and price.
+1. The [first map](https://github.com/cfragiadakis/Exploring-AirBnB/blob/main/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, price and url. 
 2. The [second map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/athens_airbnb_map2.html) visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
+   
+**Note**: if you click a URL and visit the listing, you might find slight inaccuracies with some data presented in the map. This may happen because the last edition of data of [Inside AirBnB](https://insideairbnb.com/get-the-data/) refer until December, 2023
 
 
 ---
