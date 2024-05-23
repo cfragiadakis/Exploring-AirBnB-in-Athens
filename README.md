@@ -1,5 +1,5 @@
 # Exploring AirBnB in Athens
-In this project, we conduct an exploratory data analysis (EDA) of AirBnB listings in Athens, leveraging data obtained from [Inside AirBnB](https://insideairbnb.com/get-the-data/). With the use of Python visualization libraries (`Matplotlib`, `Seaborn`, `Plotly`, `Folium`) we aim to extract insights about the effect of AirBnB in the city.
+In this project, we conduct an exploratory data analysis (EDA) of AirBnB listings in Athens, leveraging data obtained from [Inside AirBnB](https://insideairbnb.com/get-the-data/). With the use of Python visualization libraries (`matplotlib`, `seaborn`, `plotly`, `folium`) we aim to extract insights about the effect of AirBnB in the city.
 
 
 ## Objectives
