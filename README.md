@@ -1,5 +1,5 @@
 # Exploring AirBnB in Athens
-In this project, we conduct an exploratory data analysis (EDA) of AirBnB listings in Athens, leveraging data obtained from [Inside AirBnB](https://insideairbnb.com/get-the-data/). With the use of Python visualization libraries (`matplotlib`, `seaborn`, `plotly`, `folium`) we aim to extract insights about the effect of AirBnB in the city.
+This project implements an exploratory data analysis (EDA) of AirBnB listings in Athens, leveraging data obtained from [Inside AirBnB](https://insideairbnb.com/get-the-data/). With the use of Python visualization libraries (`matplotlib`, `seaborn`, `plotly`, `folium`) the purpose is to extract insights about the effect of AirBnB in the city.
 
 
 ## Objectives
@@ -17,7 +17,7 @@ Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumpti
 
 ## Interactive Maps
 
-We utilize the `folium` library to create two interactive maps of AirBnB listings in Athens:
+With the use of the `folium` library, the following interactive maps of AirBnB listings in Athens are created:
 
 1. The [first map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/maps/athens_airbnb_map.html) provides descriptive information for each listing, including neighbourhood, room type, price and url. 
 2. The [second map](https://github.com/cfragiadakis/Exploring-AirBnB-in-Athens/blob/main/maps/athens_airbnb_map2.html) visualizes listings based on their ratings and number of reviews, helping potential guests identify the best opportunities for booking in Athens.
