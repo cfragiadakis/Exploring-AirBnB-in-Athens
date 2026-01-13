@@ -10,10 +10,10 @@ The primary objectives of the analysis include:
 * Calculating the average price per day for booking an AirBnB in Athens.
 * Exploring the distribution of listings among hosts, to identify prominent hosts and discern whether listings are primarily owned by individuals or managed as part of business operations.
 
-Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumptions/) by Inside AirBnB, we can estimate:
-* The average occupacy of a listing per month.
-* The average monthly income of a listing in Athens.
-* The average yearly income per neighbourhood.
+Furthermore, using the [data assumptions](https://insideairbnb.com/data-assumptions/) by Inside AirBnB, the following are estimated:
+* Average occupacy of a listing per month.
+* Average monthly income of a listing in Athens.
+* Average yearly income per neighbourhood.
 
 ## Interactive Maps
 
